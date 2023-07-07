@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "std/http/": "https://deno.land/std@0.192.0/http/",
+        "og_edge": "https://deno.land/x/og_edge@0.0.6/mod.ts"
+    }
+}
